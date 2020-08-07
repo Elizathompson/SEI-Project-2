@@ -42,7 +42,6 @@ class GamePage extends React.Component {
   handleGuess = (e) => {
     const { trump, correctGuesses, totalGuesses } = this.state
     const answer = trump ? 'trump' : 'kanye'
-    // console.log(this.state)
     return this.setState({ 
       totalGuesses: totalGuesses + 1, 
       trump: null, 
