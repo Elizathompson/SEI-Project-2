@@ -9,7 +9,7 @@ const Home = () => (
         <img src={image} alt="logo" />
       </div>
       <div className="home-title">
-        <h1>Trump vs. Kanye</h1>
+        <h1>Kanye vs. Trump</h1>
       </div>
       <div className="home-text">
         <p>Trump and Kanye are notorious for having big mouths, so we thought it would be good to see how easy it would be to differentiate between these two ‘great minds’. Hit ‘Start’ to see how many you get out of 10.</p>
