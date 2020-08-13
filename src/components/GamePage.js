@@ -82,8 +82,8 @@ class GamePage extends React.Component {
                   <p>{kanye}{trump}</p>
                 </div>
                 <div className="game-buttons">
-                  <button onClick={this.handleGuess} className={`${isCorrectTrump ? 'correct' : ''}`} value="trump">Trump</button>
                   <button onClick={this.handleGuess} className={`${isCorrectKanye ? 'correct' : ''}`} value="kanye">Kanye</button>
+                  <button onClick={this.handleGuess} className={`${isCorrectTrump ? 'correct' : ''}`} value="trump">Trump</button>
                 </div>
               </>
               :
