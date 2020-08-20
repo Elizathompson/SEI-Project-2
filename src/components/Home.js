@@ -12,7 +12,7 @@ const Home = () => (
         <h1>Kanye vs. Trump</h1>
       </div>
       <div className="home-text">
-        <p>Trump and Kanye are notorious for having big mouths, so we thought it would be good to see how easy it would be to differentiate between these two ‘great minds’. Hit ‘Start’ to see how many you get out of 10.</p>
+        <p>Trump and Kanye are notorious for their ‘wisdom’, so we thought it would be good to see how easy it would be to differentiate between these two ‘great minds’. Hit ‘Start’ to see how many you get out of 10.</p>
         <p><span className="disclaimer">Disclaimer:</span> These quotes are offensive.</p>
         <p>Lots of Love,<br />Dicktatorship.</p>
       </div>
