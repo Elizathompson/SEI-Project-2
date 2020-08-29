@@ -13,7 +13,7 @@ Technologies used
 
 ## My Game - Trump vs Kanye
 
-You can find a hosted version here ----> https://trump-vs-kanye.netlify.app// 
+You can find a hosted version here ----> https://trump-vs-kanye.netlify.app/ 
 
 ## Game overview
 
