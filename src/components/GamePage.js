@@ -62,7 +62,7 @@ class GamePage extends React.Component {
     if (correctGuesses > 7) {
       return 'Takes a Dicktator to know a Dicktator'
     } else if (correctGuesses > 3) {
-      return 'Not bad, you could know your Dictators better'
+      return 'Not bad, you could know your Dicktators better'
     }
     return 'You do not know your Dicktators, you need to get onto Twitter more'
   }
