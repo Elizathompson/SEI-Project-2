@@ -4,7 +4,7 @@
 Technologies used
 •	React
 •	CSS 
-•	API, Axois adn insomina
+•	API, Axios and Insomina
 •	GitHub
 
 ## Installation
