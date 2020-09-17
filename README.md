@@ -1,6 +1,8 @@
 # sei-project-2
 ### Timeframe
 2 day, hackathon style, pair coded
+The breif by General Assembly was to create a React.js app in 48 hours using an external API.
+
 ## Technologies used
 •	React
 •	CSS
